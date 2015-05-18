@@ -1,10 +1,10 @@
-## Codepath Week 2 Homework
+# Codepath Week 2 Homework
 
-Prototype for Dropbox's Carousel app, including some cool animations. 
+Prototype for Dropbox's Carousel app, including some cool animations. I need to start my homework earlier. Got the week off to a funny start by not being in class on Monday. :-/
 
 Hours spent: 10+
 
-#Tasks completed:
+##Tasks completed:
 
 - Static photo tiles on the initial screen
 - Optional: Photo tiles move with scrolling
@@ -30,3 +30,4 @@ Settings
 - User can dismiss the settings screen.
 - User can log out
 
+<img src="http://cece.is/codepath/week2/Carousel-Demo.gif">
